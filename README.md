@@ -31,7 +31,7 @@ ran:
 
 
 
-Add src/index.ts
+Add src/index.ts (Done)
 function fizzBuzzStringConcat(n: number): void {
     for (let i = 1; i <= n; i++) {
         let output = ''; // Start with an empty string
@@ -50,3 +50,6 @@ function fizzBuzzStringConcat(n: number): void {
 
 // Example usage:
 fizzBuzzStringConcat(20);
+
+
+npx tsc
