@@ -1,0 +1,20 @@
+{
+  "name": "fizzbuzz1typescript",
+  "version": "1.0.0",
+  "description": "This is a fizzbuzz example and how to create an compile a typescript program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmeliaMiddleton/fizzbuzz1Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmeliaMiddleton/fizzbuzz1Typescript/issues"
+  },
+  "homepage": "https://github.com/AmeliaMiddleton/fizzbuzz1Typescript#readme"
+}
