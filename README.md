@@ -52,4 +52,22 @@ function fizzBuzzStringConcat(n: number): void {
 fizzBuzzStringConcat(20);
 
 
-npx tsc
+npx tsc (Done)
+
+7) Add npm scripts (optional, nice)
+
+Edit package.json and add:
+
+{
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc -w"
+  }
+}
+
+
+Then you can use:
+
+npm run build
+npm start
